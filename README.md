@@ -1,2 +1,8 @@
-# hackfest
-hackathoon in gtbit
+# dibetes prediction model
+to predict diabetes on basis 
+
+
+# requirements 
+django
+sklearn 
+numpy
