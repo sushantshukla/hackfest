@@ -1,4 +1,4 @@
-# dibetes prediction model
+# diabetes prediction model
 to predict diabetes on basis 
 
 
